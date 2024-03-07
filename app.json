@@ -2,7 +2,7 @@
   "name": "CLASH-WA-BOT",
   "description": "WhatsApp bot.",
   "logo": "https://i.imgur.com/5CHomMS.png",
-  "repository": "https://github.com/S-U-P-E-R-I-O-R/XERO-MD",
+  "repository": "https://github.com/S-U-P-E-R-I-O-R/-CRYSTA-OPEN-CODE",
   "stack": "container",
   "env": {
     "LOGS": {
